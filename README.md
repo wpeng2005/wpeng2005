@@ -11,7 +11,7 @@
 <p>
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=wpeng2005&theme=onedark&column=-1&margin-w=15" />
 </p>
-[![Wpeng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wpeng2005)](https://github.com/wpeng2005/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wpeng2005)](https://github.com/wpeng2005/github-readme-activity-graph)
 
 
 
