@@ -12,7 +12,6 @@
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=wpeng2005&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wpeng2005&theme=merko&custom_title=wpeng%20活动图&hide_border=true&point=FFFFFF&days=30)](https://github.com/wpeng2005)
 
 
 
